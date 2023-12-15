@@ -13,3 +13,12 @@ scoop install lua
 ```
 lua filename.lua
 ```
+
+## lua编译
+
+```
+luac filename.lua
+```
+
+编译生成的lua字节码文件也可以被lua命令执行
+
